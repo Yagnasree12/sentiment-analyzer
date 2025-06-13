@@ -5,5 +5,5 @@ matplotlib
 langdetect
 pandas
 transformers
-google_trans_new
+deep-translator
 SpeechRecognition
